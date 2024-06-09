@@ -1,0 +1,42 @@
+h1{
+    width: 75%;
+    border-bottom:solid 4px mediumaquamarine;
+    margin-left: 0;
+    padding-left: 5%;
+}
+
+#box{
+    text-align: center;
+    border: solid 2px mediumaquamarine;
+    line-height: 4px;
+    width: 220px;
+    margin:auto;
+    margin-top: 0;
+}
+
+#boxcaution{
+    text-align: center;
+    border: solid 4px red;
+    background-color: gold;
+    line-height: 4px;
+    width: 220px;
+    margin:auto;
+    margin-top: 0;
+}
+
+.phrase{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#however{
+    margin-top: 100px;
+    margin-bottom: 10px;
+    padding-bottom: 0;
+    font-size: 130%;
+}
+
+#caution{
+    padding-top: 1px;
+    background-color: yellow;
+}
